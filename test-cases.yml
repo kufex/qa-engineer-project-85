@@ -35,7 +35,7 @@
   prerequisites:
     Открыта страница регистрации
   test-data: |
-   nickname=huo email = huo?@yandex.ru Пароль = 335^Gh8I0
+   nickname=huo email = huo@yandex.ru Пароль = 335^Gh8I0
   steps:
     - Ввести стартовые данные в соответствующие поля
     - Нажимаем кнопку "Submit"
