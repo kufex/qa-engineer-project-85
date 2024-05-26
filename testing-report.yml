@@ -1,28 +1,27 @@
 ---
 - summary: |
     Проверка входа пользователя с несуществующими логином и паролем
-status: pass
+  status: pass
 
 - summary: |
     Проверка входа пользователя с помощью аккаунта других сайтов
-status: pass
+  status: pass
 
 - summary: |
     Проверка возможности регистрации пользователя
-status: fail
+  status: fail
 
 - summary: |
     Проверка возможности играть с ботом
-status: pass
+  status: pass
 
 - summary: |
     Проверка возможности играть с другим игроком
-status: pass
+  status: pass
 
 - summary: |
     Проверка возможности играть с другом
-status: pass
-
+  status: pass
 - summary: |
     Проверка возможности зайти в игру к другому игроку
 status: pass
