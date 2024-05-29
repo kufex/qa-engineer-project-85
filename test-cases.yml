@@ -6,7 +6,7 @@
   prerequisites:
     Открыта страница регистрации
   test-data: |
-    nickname = huo, email = huo@yandex.ru, password = 335^Gh8I0
+    -
   steps:
     - Заполнить все поля валидными данными
     - Нажимаем кнопку "Submit"
