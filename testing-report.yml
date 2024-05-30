@@ -1,52 +1,52 @@
 ---
 - summary: |
     Проверка успешной регистрации
-status: pass
+  status: pass
 
 - summary: |
     Проверка авторизации через email
-status: pass
+  status: pass
 
 - summary: |
     Проверка авторизации незарегестрированного пользователя
-status: fail
+  status: fail
 
 - summary: |
     Проверка входа пользователя с помощью Github
-status: pass
+  status: pass
 
 - summary: |
     Проверка входа пользователя с помощью Discord
-status: pass
+  status: pass
 
 - summary: |
     Проверка смены ника через профиль
-status: pass
+  status: pass
 
 - summary: |
     Проверка создания игры с ботом
-status: pass
+  status: pass
 
 - summary: |
     Проверка создани игры с другим игроком
-status: pass
+  status: pass
 
 - summary: |
     Проверка создания игры с другом
-status: pass
+  status: pass
 
 - summary: |
     Проверка создания игры с ботом без регистрации
-status: pass
+  status: pass
 
 - summary: |
     Проверка присоединения в игру через Лобби
-status: pass
+  status: pass
 
 - summary: |
     Проверка возможности отпрявлять сообдщение в общем чате
-status: pass
+  status: pass
 
 - summary: |
     Проверка возможности отпрявлять сообдщение в чате во время игры
-status: pass
+  status: pass
